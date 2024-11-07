@@ -11,6 +11,9 @@
     },
     "vrchat.blackstartx.gesture-manager": {
       "version": "3.9.2"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.6"
     }
   },
   "locked": {
@@ -32,6 +35,12 @@
       "version": "3.9.2",
       "dependencies": {
         "com.vrchat.avatars": ">=3.5.2 < 3.8.X"
+      }
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.6",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.1.0"
       }
     }
   }
