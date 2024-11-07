@@ -1,0 +1,1 @@
+# vrc-vcc-avatar-template
